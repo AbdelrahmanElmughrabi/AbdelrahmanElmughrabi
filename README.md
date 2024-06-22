@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for tips to be better in back-end development
 - 💬 Ask me about anything
 - 📫 How to reach me: Instagram: @abdelrahman_mughrabi , Email: abdrahman.mughrabi14@gmail.com
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
